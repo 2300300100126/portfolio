@@ -8,8 +8,8 @@ export default function Projects() {
         "A modern web application built with cutting-edge technologies. Showcasing full-stack development capabilities with responsive design and smooth user experience.",
       technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
       link: "https://aztec-six.vercel.app",
-      github: "https://github.com/Keys-3",
-      image: "/aztec-web-application.jpg",
+      github: "https://github.com/Keys-3/Aztec",
+      image: "/aztec.png",
     },
     {
       title: "SmartMines",
@@ -17,8 +17,26 @@ export default function Projects() {
         "An innovative mining technology solution developed collaboratively. Features real-time data visualization and intelligent analytics for mining operations.",
       technologies: ["Next.js", "React", "Node.js", "MongoDB"],
       link: "https://smartmine.vercel.app/",
-      github: "https://github.com/Keys-3",
-      image: "/smartmines-mining-technology.jpg",
+      github: "https://github.com/Keys-3/smartmine",
+      image: "/smartmine.png",
+    },
+    {
+      title: "ModernBank",
+      description:
+        "An innovative banking frontend solution developed collaboratively. Features frontend design and looks for banking operations.",
+      technologies: ["React", "Node.js"],
+      link: "https://modernbank-smoky.vercel.app/",
+      github: "https://github.com/Keys-3/Modern_bank",
+      image: "/modernbank.png",
+    },
+    {
+      title: "ModernBank",
+      description:
+        "A frontend design developed by self. Features new react and node features that explores the frameworks in detail .",
+      technologies: ["React", "Node.js"],
+      link: "https://dummy-website.vercel.app/",
+      github: "https://github.com/Keys-3/Dummy-website",
+      image: "/dummy.png",
     },
   ]
 

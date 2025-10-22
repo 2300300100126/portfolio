@@ -9,7 +9,7 @@ export default function Projects() {
       technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
       link: "https://aztec-six.vercel.app",
       github: "https://github.com/Keys-3",
-      image: "/aztec-web-application.jpg",
+      image: "/aztec.png",
     },
     {
       title: "SmartMines",
@@ -18,7 +18,7 @@ export default function Projects() {
       technologies: ["Next.js", "React", "Node.js", "MongoDB"],
       link: "https://smartmine.vercel.app/",
       github: "https://github.com/Keys-3",
-      image: "/smartmines-mining-technology.jpg",
+      image: "/smartmine.png",
     },
   ]
 

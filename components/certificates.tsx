@@ -48,7 +48,7 @@ export default function Certificates() {
       credentialId: "MICROSOFT-AI-AGENTS",
       credentialUrl: "#",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Microsoft%20Hackathon%20-gPFTLJKQwo2f7FyQBjmBsi9ESCkWhx.jpg",
+        "https://drive.google.com/file/d/1X28lkZhUF1qTNC9W58f4bpeMIW0hReGS/view?usp=drive_link",
     },
     {
       name: "BuildwithDelhi 2.0 - Top 40 Achievement",
